@@ -1,2 +1,3 @@
-/CAD/OldVersions
+/CAD/OldVersions/*
 *.stl
+*.3mf
